@@ -1,0 +1,4 @@
+{
+  "name": "SQL Indexing Performance Demo",
+  "description": "A split-pane dashboard to compare database query performance with and without indexing."
+}
